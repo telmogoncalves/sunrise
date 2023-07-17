@@ -1,0 +1,40 @@
+[cmdk-item] {
+  content-visibility: auto;
+
+  user-select: none;
+  will-change: background, color;
+  transition: all 150ms ease;
+  transition-property: none;
+  position: relative;
+  @apply mx-2 rounded-lg flex px-4 py-3 cursor-pointer space-x-3 items-center;
+}
+
+[cmdk-item] .command-menu-title {
+  @apply text-zinc-500 dark:text-zinc-300;
+}
+
+[cmdk-item] .command-menu-description {
+  @apply text-xs text-zinc-400;
+}
+
+[cmdk-item][aria-selected='true'] {
+  @apply dark:bg-zinc-900;
+  color: var(--brand-500);
+  border-color: var(--brand-500);
+  background-color: var(--brand-50);
+}
+
+[cmdk-item][aria-selected='true'] .command-menu-title,
+[cmdk-item]:hover .command-menu-title {
+  @apply dark:text-white;
+  color: var(--brand-500);
+}
+
+[cmdk-item][aria-selected='true'] .command-menu-description,
+[cmdk-item]:hover .command-menu-description {
+  @apply text-black dark:text-white;
+}
+
+[cmdk-group-heading] {
+  @apply px-6 pt-6 text-xs font-medium dark:text-white my-4 first:mt-0;
+}

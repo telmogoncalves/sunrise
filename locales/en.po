@@ -1,0 +1,676 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2023-05-04 15:20+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: en\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: components/Compose.tsx
+#~ msgid "Drag, paste or browse files"
+#~ msgstr "Drag, paste or browse files"
+
+#: components/Compose.tsx
+msgid "Posted!"
+msgstr "Posted!"
+
+#: components/Compose.tsx
+msgid "Your reply has been posted!"
+msgstr "Your reply has been posted!"
+
+#: components/Compose.tsx
+msgid "Your post has been posted!"
+msgstr "Your post has been posted!"
+
+#: components/Compose.tsx
+msgid "Error"
+msgstr "Error"
+
+#: components/Compose.tsx
+msgid "Type your reply"
+msgstr "Type your reply"
+
+#: components/Compose.tsx
+msgid "What's going on?"
+msgstr "What's going on?"
+
+#: components/Compose.tsx
+msgid "Posting, please wait..."
+msgstr "Posting, please wait..."
+
+#: components/Compose.tsx
+msgid "Reply"
+msgstr "Reply"
+
+#: components/Compose.tsx
+#: components/PostActions.tsx
+msgid "Skeet"
+msgstr "Skeet"
+
+#: components/Compose.tsx
+msgid "Drop the files here ..."
+msgstr "Drop the files here ..."
+
+#: components/Compose.tsx
+msgid "Drag 'n' drop some files here, or click to select files"
+msgstr "Drag 'n' drop some files here, or click to select files"
+
+#: components/Compose.tsx
+msgid "Edit"
+msgstr "Edit"
+
+#: components/Compose.tsx
+msgid "Edit image"
+msgstr "Edit image"
+
+#: components/Compose.tsx
+msgid "Image alt / description"
+msgstr "Image alt / description"
+
+#: components/Compose.tsx
+msgid "Save"
+msgstr "Save"
+
+#: components/Connections.tsx
+#: pages/u/[handle]/followers.tsx
+#: pages/u/[handle]/following.tsx
+msgid "Following"
+msgstr "Following"
+
+#: components/Connections.tsx
+#: pages/u/[handle]/followers.tsx
+#: pages/u/[handle]/following.tsx
+msgid "Followers"
+msgstr "Followers"
+
+#: components/EditProfile.tsx
+#: components/Menu/Profile.tsx
+#: components/Spotlight.tsx
+msgid "Profile"
+msgstr "Profile"
+
+#: components/EditProfile.tsx
+msgid "Successfully updated profile"
+msgstr "Successfully updated profile"
+
+#: components/EditProfile.tsx
+#: components/EditProfile.tsx
+msgid "Edit profile"
+msgstr "Edit profile"
+
+#: components/EditProfile.tsx
+msgid "Avatar"
+msgstr "Avatar"
+
+#: components/EditProfile.tsx
+msgid "Display name"
+msgstr "Display name"
+
+#: components/EditProfile.tsx
+msgid "Bio"
+msgstr "Bio"
+
+#: components/EditProfile.tsx
+msgid "Update"
+msgstr "Update"
+
+#: components/Embed/MediaWithThread.tsx
+msgid "NSFW content. If you want to see the content click the button below."
+msgstr "NSFW content. If you want to see the content click the button below."
+
+#: components/Follow.tsx
+#: pages/feeds/popular.tsx
+msgid "Unfollow"
+msgstr "Unfollow"
+
+#: components/Follow.tsx
+#: pages/feeds/popular.tsx
+msgid "Follow"
+msgstr "Follow"
+
+#: components/FollowsYou.tsx
+msgid "Follows You"
+msgstr "Follows You"
+
+#: components/GlobalCompose.tsx
+msgid "Share a skeet"
+msgstr "Share a skeet"
+
+#: components/InviteCodes.tsx
+msgid "You have {0} invite codes available"
+msgstr "You have {0} invite codes available"
+
+#: components/InviteCodes.tsx
+msgid "Invite codes"
+msgstr "Invite codes"
+
+#: components/InviteCodes.tsx
+#: components/Share.tsx
+msgid "Success"
+msgstr "Success"
+
+#: components/InviteCodes.tsx
+msgid "Code copied to clipboard"
+msgstr "Code copied to clipboard"
+
+#: components/InviteCodes.tsx
+msgid "Copy code"
+msgstr "Copy code"
+
+#: components/InviteCodes.tsx
+msgid "You don't have any invite codes available"
+msgstr "You don't have any invite codes available"
+
+#: components/Language.tsx
+msgid "Language"
+msgstr "Language"
+
+#: components/Language.tsx
+msgid "If you would like to help with translations please reach out to"
+msgstr "If you would like to help with translations please reach out to"
+
+#: components/LikesModal.tsx
+#: components/LikesModal.tsx
+msgid "likes"
+msgstr "likes"
+
+#: components/LoggedInAccounts.tsx
+msgid "Logged in accounts"
+msgstr "Logged in accounts"
+
+#: components/LoggedInAccounts.tsx
+msgid "Logged in"
+msgstr "Logged in"
+
+#: components/MentionList.tsx
+msgid "No result"
+msgstr "No result"
+
+#: components/Menu/Notifications.tsx
+#: components/Spotlight.tsx
+#: pages/notifications/index.tsx
+#: pages/notifications/index.tsx
+msgid "Notifications"
+msgstr "Notifications"
+
+#: components/Moderations.tsx
+msgid "Moderation"
+msgstr "Moderation"
+
+#: components/Moderations.tsx
+#: pages/settings/moderation/filtering.tsx
+#: pages/settings/moderation/filtering.tsx
+msgid "Content filtering"
+msgstr "Content filtering"
+
+#: components/Moderations.tsx
+#: pages/settings/moderation/languages.tsx
+msgid "Content languages"
+msgstr "Content languages"
+
+#: components/Moderations.tsx
+#: pages/settings/passwords/index.tsx
+msgid "App passwords"
+msgstr "App passwords"
+
+#: components/Moderations.tsx
+#: pages/settings/moderation/muted.tsx
+msgid "Muted accounts"
+msgstr "Muted accounts"
+
+#: components/Moderations.tsx
+#: pages/settings/moderation/blocked.tsx
+msgid "Blocked accounts"
+msgstr "Blocked accounts"
+
+#: components/OpenAI.tsx
+msgid "Type your OpenAI key. ⌘ + Enter to submit"
+msgstr "Type your OpenAI key. ⌘ + Enter to submit"
+
+#: components/OpenAI.tsx
+msgid "Waiting for OpenAI, hang tight..."
+msgstr "Waiting for OpenAI, hang tight..."
+
+#: components/OpenAI.tsx
+msgid "Ask OpenAI whatever you want! ⌘ + Enter to submit"
+msgstr "Ask OpenAI whatever you want! ⌘ + Enter to submit"
+
+#: components/OpenAI.tsx
+msgid "Learn more"
+msgstr "Learn more"
+
+#: components/OpenAI.tsx
+msgid "It's secure to put my OpenAI key on Sunrise?"
+msgstr "It's secure to put my OpenAI key on Sunrise?"
+
+#: components/OpenAI.tsx
+msgid "We don't store your key ourselves, we use local storage to save your key, which means it never leaves your browser. This means if you login from a different browser or computer you'll need to save your key again. It's safe."
+msgstr "We don't store your key ourselves, we use local storage to save your key, which means it never leaves your browser. This means if you login from a different browser or computer you'll need to save your key again. It's safe."
+
+#: components/OpenAI.tsx
+msgid "Got it"
+msgstr "Got it"
+
+#: components/Post.tsx
+msgid "Reskeet'd by"
+msgstr "Reskeet'd by"
+
+#: components/Post.tsx
+msgid "Replying to"
+msgstr "Replying to"
+
+#: components/PostActions.tsx
+#~ msgid "Post"
+#~ msgstr "Post"
+
+#: components/PostActions.tsx
+#~ msgid "Successfully deleted post"
+#~ msgstr "Successfully deleted post"
+
+#: components/PostActions.tsx
+msgid "Successfully deleted skeet"
+msgstr "Successfully deleted skeet"
+
+#: components/PostActions.tsx
+msgid "Delete skeet"
+msgstr "Delete skeet"
+
+#: components/PostActions.tsx
+msgid "Are you sure absolutely sure?"
+msgstr "Are you sure absolutely sure?"
+
+#: components/PostActions.tsx
+msgid "This action cannot be undone. This will permanently delete your post."
+msgstr "This action cannot be undone. This will permanently delete your post."
+
+#: components/PostActions.tsx
+msgid "Cancel"
+msgstr "Cancel"
+
+#: components/PostActions.tsx
+msgid "Continue"
+msgstr "Continue"
+
+#: components/ProfileHeader.tsx
+msgid "is muted, you won't see any posts"
+msgstr "is muted, you won't see any posts"
+
+#: components/ProfileHeader.tsx
+msgid "is blocked, they'll not be able to see your posts"
+msgstr "is blocked, they'll not be able to see your posts"
+
+#: components/ProfileHeader.tsx
+msgid "Skeets"
+msgstr "Skeets"
+
+#: components/ProfileHeader.tsx
+msgid "Replies"
+msgstr "Replies"
+
+#: components/ProfileHeader.tsx
+msgid "Likes"
+msgstr "Likes"
+
+#: components/ProfileHeader.tsx
+msgid "Media"
+msgstr "Media"
+
+#: components/ProfileHeader.tsx
+msgid "Lists"
+msgstr "Lists"
+
+#: components/Repost.tsx
+#~ msgid "Reskeet with quote"
+#~ msgstr "Reskeet with quote"
+
+#: components/Repost.tsx
+#: components/Repost.tsx
+#: components/Repost.tsx
+msgid "Reskeet"
+msgstr "Reskeet"
+
+#: components/Repost.tsx
+msgid "Quote"
+msgstr "Quote"
+
+#: components/Repost.tsx
+msgid "Successfully reskeeted"
+msgstr "Successfully reskeeted"
+
+#: components/RepostsModal.tsx
+#: components/RepostsModal.tsx
+msgid "reskeets"
+msgstr "reskeets"
+
+#: components/Share.tsx
+#~ msgid "Share"
+#~ msgstr "Share"
+
+#: components/Share.tsx
+msgid "URL copied to clipboard"
+msgstr "URL copied to clipboard"
+
+#: components/Share.tsx
+msgid "A bsky.app URL will be copied in order to embed the post"
+msgstr "A bsky.app URL will be copied in order to embed the post"
+
+#: components/Spotlight.tsx
+#: containers/Layout.tsx
+#: pages/index.tsx
+#: pages/index.tsx
+msgid "Home"
+msgstr "Home"
+
+#: components/Spotlight.tsx
+#: pages/hot/index.tsx
+#: pages/hot/index.tsx
+msgid "Hot"
+msgstr "Hot"
+
+#: components/Spotlight.tsx
+msgid "Global Command Menu"
+msgstr "Global Command Menu"
+
+#: components/Spotlight.tsx
+msgid "What are you looking for?"
+msgstr "What are you looking for?"
+
+#: components/Spotlight.tsx
+msgid "to navigate"
+msgstr "to navigate"
+
+#: components/Spotlight.tsx
+msgid "to select"
+msgstr "to select"
+
+#: components/Spotlight.tsx
+msgid "Nothing found!"
+msgstr "Nothing found!"
+
+#: components/Spotlight.tsx
+msgid "Navigation"
+msgstr "Navigation"
+
+#: components/Spotlight.tsx
+msgid "System"
+msgstr "System"
+
+#: components/Spotlight.tsx
+#: components/Spotlight.tsx
+msgid "Change theme"
+msgstr "Change theme"
+
+#: components/Spotlight.tsx
+msgid "current"
+msgstr "current"
+
+#: components/Spotlight.tsx
+#: containers/Layout.tsx
+msgid "Logout"
+msgstr "Logout"
+
+#: components/Theme.tsx
+msgid "Theme"
+msgstr "Theme"
+
+#: components/UserActions.tsx
+#: components/UserActions.tsx
+#: pages/settings/moderation/muted.tsx
+msgid "Unmute"
+msgstr "Unmute"
+
+#: components/UserActions.tsx
+#: components/UserActions.tsx
+msgid "Mute"
+msgstr "Mute"
+
+#: components/UserActions.tsx
+#: pages/settings/moderation/muted.tsx
+msgid "Successfully unmuted @{handle}"
+msgstr "Successfully unmuted @{handle}"
+
+#: components/UserActions.tsx
+msgid "Successfully muted @{handle}"
+msgstr "Successfully muted @{handle}"
+
+#: components/UserActions.tsx
+#: components/UserActions.tsx
+#: pages/settings/moderation/blocked.tsx
+msgid "Unblock"
+msgstr "Unblock"
+
+#: components/UserActions.tsx
+#: components/UserActions.tsx
+msgid "Block"
+msgstr "Block"
+
+#: components/UserActions.tsx
+#: pages/settings/moderation/blocked.tsx
+msgid "Successfully unblocked @{handle}"
+msgstr "Successfully unblocked @{handle}"
+
+#: components/UserActions.tsx
+msgid "Successfully blocked @{handle}"
+msgstr "Successfully blocked @{handle}"
+
+#: components/WhoToFollow.tsx
+#: pages/suggestions/index.tsx
+msgid "Who to follow"
+msgstr "Who to follow"
+
+#: components/WhoToFollow.tsx
+msgid "See more"
+msgstr "See more"
+
+#: containers/Layout.tsx
+msgid "What's Hot"
+msgstr "What's Hot"
+
+#: containers/Layout.tsx
+#: pages/search/index.tsx
+msgid "Search"
+msgstr "Search"
+
+#: containers/Layout.tsx
+#: pages/feeds/popular.tsx
+#: pages/feeds/popular.tsx
+msgid "Popular Feeds"
+msgstr "Popular Feeds"
+
+#: containers/Layout.tsx
+#: pages/settings/index.tsx
+msgid "Settings"
+msgstr "Settings"
+
+#: containers/Layout.tsx
+msgid "Light theme"
+msgstr "Light theme"
+
+#: containers/Layout.tsx
+msgid "Dark theme"
+msgstr "Dark theme"
+
+#: containers/Layout.tsx
+msgid "System theme"
+msgstr "System theme"
+
+#: containers/Layout.tsx
+msgid "Send feedback"
+msgstr "Send feedback"
+
+#: pages/_app.tsx
+msgid "Uh oh! Something went wrong"
+msgstr "Uh oh! Something went wrong"
+
+#: pages/_app.tsx
+msgid "We're having some trouble connection with the AT API, we'll keep trying, hang tight!"
+msgstr "We're having some trouble connection with the AT API, we'll keep trying, hang tight!"
+
+#: pages/notifications/index.tsx
+msgid "liked your skeet"
+msgstr "liked your skeet"
+
+#: pages/notifications/index.tsx
+msgid "followed you"
+msgstr "followed you"
+
+#: pages/notifications/index.tsx
+msgid "replied to your skeet"
+msgstr "replied to your skeet"
+
+#: pages/notifications/index.tsx
+msgid "reskeet'd your skeet"
+msgstr "reskeet'd your skeet"
+
+#: pages/notifications/index.tsx
+msgid "mentioned you"
+msgstr "mentioned you"
+
+#: pages/notifications/index.tsx
+msgid "quoted your skeet"
+msgstr "quoted your skeet"
+
+#: pages/settings/moderation/blocked.tsx
+msgid "You have not blocked any accounts yet. To block an account, go to their profile and selected \"Block\" from the menu on their account."
+msgstr "You have not blocked any accounts yet. To block an account, go to their profile and selected \"Block\" from the menu on their account."
+
+#: pages/settings/moderation/filtering.tsx
+msgid "Explicit Sexual Images"
+msgstr "Explicit Sexual Images"
+
+#: pages/settings/moderation/filtering.tsx
+msgid "i.e. Pornography"
+msgstr "i.e. Pornography"
+
+#: pages/settings/moderation/filtering.tsx
+msgid "Other Nudity"
+msgstr "Other Nudity"
+
+#: pages/settings/moderation/filtering.tsx
+msgid "Including non-sexual and artistic"
+msgstr "Including non-sexual and artistic"
+
+#: pages/settings/moderation/filtering.tsx
+msgid "Sexually Suggestive"
+msgstr "Sexually Suggestive"
+
+#: pages/settings/moderation/filtering.tsx
+msgid "Does not include nudity"
+msgstr "Does not include nudity"
+
+#: pages/settings/moderation/filtering.tsx
+msgid "Violent / Bloody"
+msgstr "Violent / Bloody"
+
+#: pages/settings/moderation/filtering.tsx
+msgid "Gore, self-harm, torture"
+msgstr "Gore, self-harm, torture"
+
+#: pages/settings/moderation/filtering.tsx
+msgid "Political Hate-Groups"
+msgstr "Political Hate-Groups"
+
+#: pages/settings/moderation/filtering.tsx
+msgid "Spam"
+msgstr "Spam"
+
+#: pages/settings/moderation/filtering.tsx
+msgid "Excessive unwanted interactions"
+msgstr "Excessive unwanted interactions"
+
+#: pages/settings/moderation/filtering.tsx
+msgid "Impersonation"
+msgstr "Impersonation"
+
+#: pages/settings/moderation/filtering.tsx
+msgid "Accounts falsely claiming to be people or orgs"
+msgstr "Accounts falsely claiming to be people or orgs"
+
+#: pages/settings/moderation/filtering.tsx
+msgid "Preferences"
+msgstr "Preferences"
+
+#: pages/settings/moderation/filtering.tsx
+msgid "Changed \"{0}\" to \"{value}\""
+msgstr "Changed \"{0}\" to \"{value}\""
+
+#: pages/settings/moderation/muted.tsx
+msgid "You have not muted any accounts yet. To mute an account, go to their profile and selected \"Mute\" from the menu on their account."
+msgstr "You have not muted any accounts yet. To mute an account, go to their profile and selected \"Mute\" from the menu on their account."
+
+#: pages/settings/passwords/index.tsx
+msgid "You have not created any app passwords. Create one to safely login into any third party application without sharing your password."
+msgstr "You have not created any app passwords. Create one to safely login into any third party application without sharing your password."
+
+#: pages/u/[handle]/feed/[name].tsx
+msgid "Nothing to see here,"
+msgstr "Nothing to see here,"
+
+#: pages/u/[handle]/feed/[name].tsx
+msgid "try a different feed."
+msgstr "try a different feed."
+
+#: pages/u/[handle]/index.tsx
+#: pages/u/[handle]/replies.tsx
+#~ msgid "No skeets yet"
+#~ msgstr "No skeets yet"
+
+#: pages/u/[handle]/index.tsx
+#~ msgid "@{0} haven't posted any skeets yet"
+#~ msgstr "@{0} haven't posted any skeets yet"
+
+#: pages/u/[handle]/index.tsx
+msgid "Nothing to see here yet. When @{0} shares a skeet you'll see it here."
+msgstr "Nothing to see here yet. When @{0} shares a skeet you'll see it here."
+
+#: pages/u/[handle]/likes.tsx
+#~ msgid "No likes yet"
+#~ msgstr "No likes yet"
+
+#: pages/u/[handle]/likes.tsx
+#~ msgid "@{0} haven't liked any skeets yet"
+#~ msgstr "@{0} haven't liked any skeets yet"
+
+#: pages/u/[handle]/likes.tsx
+msgid "Nothing to see here yet. When @{0} likes a skeet you'll see it here."
+msgstr "Nothing to see here yet. When @{0} likes a skeet you'll see it here."
+
+#: pages/u/[handle]/lists/index.tsx
+#~ msgid "@{0} haven't created any lists yet"
+#~ msgstr "@{0} haven't created any lists yet"
+
+#: pages/u/[handle]/lists/index.tsx
+msgid "Nothing to see here yet. When @{0} creates a list you'll see it here."
+msgstr "Nothing to see here yet. When @{0} creates a list you'll see it here."
+
+#: pages/u/[handle]/media.tsx
+#~ msgid "No media found"
+#~ msgstr "No media found"
+
+#: pages/u/[handle]/media.tsx
+#~ msgid "@{0} haven't skeet'd any images yet"
+#~ msgstr "@{0} haven't skeet'd any images yet"
+
+#: pages/u/[handle]/media.tsx
+msgid "Nothing to see here yet. When @{0} skeets a picture you'll see it here."
+msgstr "Nothing to see here yet. When @{0} skeets a picture you'll see it here."
+
+#: pages/u/[handle]/replies.tsx
+#~ msgid "@{0} haven't replied to any skeets yet"
+#~ msgstr "@{0} haven't replied to any skeets yet"
+
+#: pages/u/[handle]/replies.tsx
+msgid "Nothing to see here yet. When @{0} replies to a skeet you'll see it here."
+msgstr "Nothing to see here yet. When @{0} replies to a skeet you'll see it here."
+
+#: pages/u/[handle]/skeet/[id].tsx
+#: pages/u/[handle]/skeet/[id].tsx
+msgid "Thread"
+msgstr "Thread"

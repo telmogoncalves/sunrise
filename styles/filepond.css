@@ -1,0 +1,11 @@
+.filepond--root {
+  @apply bg-none m-3 rounded-lg !important;
+}
+
+.filepond--drop-label {
+  @apply text-sm font-semibold !important;
+}
+
+.filepond--panel-root {
+  @apply bg-white border-2 rounded-lg dark:bg-background !important;
+}

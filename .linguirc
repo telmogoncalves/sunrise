@@ -1,0 +1,29 @@
+{
+  "catalogs": [
+    {
+      "path": "locales/{locale}",
+      "include": [
+        "pages",
+        "components",
+        "containers"
+      ]
+    }
+  ],
+  "format": "po",
+  "formatOptions": {
+    "origins": true,
+    "lineNumbers": false
+  },
+  "orderBy": "origin",
+  "locales": [
+    "en",
+    "pt",
+    "es",
+    "fr",
+    "de"
+  ],
+  "sourceLocale": "en",
+  "fallbackLocales": {
+    "default": "en"
+  }
+}
