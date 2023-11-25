@@ -4,6 +4,7 @@ import { messages as deMessages } from '@/locales/de.js'
 import { messages as enMessages } from '@/locales/en.js'
 import { messages as esMessages } from '@/locales/es.js'
 import { messages as frMessages } from '@/locales/fr.js'
+import { messages as koMessages } from '@/locales/ko.js'
 import { messages as ptMessages } from '@/locales/pt.js'
 
 export const supportedLocales: Record<string, string> = {
@@ -12,6 +13,7 @@ export const supportedLocales: Record<string, string> = {
   es: 'Spanish',
   fr: 'French',
   de: 'German',
+  ko: 'Korean',
 }
 
 const defaultLocale = 'en'
@@ -34,6 +36,7 @@ export const initLocale = (): void => {
     es: esMessages,
     fr: frMessages,
     de: deMessages,
+    ko: koMessages,
   })
 
   const storedValue = localStorage.getItem('LOCALE')
